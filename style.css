@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
 .center-screen {
     display: flex;
     justify-content: center;
@@ -36,24 +37,24 @@ body {
     max-width: 5ch !important;
 }
 
-.caret_up{
-	color: #2CD618;
+.caret_up {
+    color: #2CD618;
 }
 
-.caret_down{
-	color : #AF1515;
+.caret_down {
+    color: #AF1515;
 }
 
-.minus{
-	color: #C6C6C6;
+.minus {
+    color: #C6C6C6;
 }
 
-.sembol_up{
-	background-color: #2CD618;
-	transition-timing-function: ease;
+.sembol_up {
+    background-color: #2CD618;
+    transition-timing-function: ease;
 }
 
-.sembol_down{
-	background-color : #AF1515;
-	transition-timing-function: ease;
+.sembol_down {
+    background-color: #AF1515;
+    transition-timing-function: ease;
 }
